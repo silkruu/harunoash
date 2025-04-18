@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @harunoash
-- 👀 I’m interested in ... films, books and music
+- 👀 I’m interested in ... front-end!! 
 - 🌱 I’m currently learning ... make program
 - 💞️ I’m looking to collaborate on ... nobody
 - 📫 How to reach me ... it´s simple, just mention a dumb meme
